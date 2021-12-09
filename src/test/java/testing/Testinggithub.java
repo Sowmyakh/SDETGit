@@ -8,5 +8,6 @@ public class Testinggithub {
 	public void user()
 	{
 		System.out.println("this is user1");
+		System.out.println("this is user2");
 	}
 }
